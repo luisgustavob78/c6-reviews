@@ -32,4 +32,4 @@ Para reproduzir o ambiente, basta instalar os requirements disponíves em requir
 ```pip install requirements.txt```
 
 ### Serviços de API
-Tanto a serpapi para coleta de dados no Google Maps quanto a OpenAI para uso do GPT requerem a criação de conta em seus sites para consumo de suas respectivas APIs. Lá será possível criar as keys que darão acesso às APIs
+Tanto a serpapi para coleta de dados no Google Maps quanto a OpenAI para uso do GPT requerem a criação de conta em seus sites para consumo de suas respectivas APIs. Lá será possível criar as keys que darão acesso às APIs.
