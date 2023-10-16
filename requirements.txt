@@ -1,0 +1,4 @@
+transformers
+openai
+serpapi
+google-search-results
